@@ -14,6 +14,8 @@ Xây dựng luật chơi
 Xây dựng giao diện cho người chơi
 Hoàn thiện chương trình
 
-Case 2: 
+Case 2: Xây dựng chương trình mô phỏng hệ thống Login and Registration
+Hệ thống Login and Registration là một hệ thống liên quan đến việc đăng ký và đăng nhập vào hệ thống của người dùng.
+Yêu cầu dự án:
 
  
